@@ -9,7 +9,9 @@
 ### By the end:
 The resume will look something like this
 
-<img src="./demo.jpg">
+<img src="./demo1.jpg">
+
+<img src="./demo2.jpg">
 
 And your repository will include the following files:
 
